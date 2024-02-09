@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+button {
+  border-radius: 2px;
+  border: 2px;
+  background-color: rgba(53, 53, 250, 0.541);
+}
+img {
+  size: 20px;
+}
